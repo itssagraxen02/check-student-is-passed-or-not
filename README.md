@@ -1,0 +1,1 @@
+# check-student-is-passed-or-not
